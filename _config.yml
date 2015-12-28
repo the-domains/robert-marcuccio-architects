@@ -1,7 +1,20 @@
-name: Robert Marcuccio Architects
-favicon: null
+title: 'ROBERT MARCUCCIO ARCHITECTS '
+cta:
+  version: null
+  bucket: null
+  domain: null
 layout_spectrum: 0.87923
-typography_spectrum: 0.93506
+favicon: null
+name: Robert Marcuccio Architects
+purpose: []
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 collections:
   - index:
       navigable: true
@@ -14,28 +27,15 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-title: 'ROBERT MARCUCCIO ARCHITECTS '
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
+  brandStrength: 0.75
+  lightness: 0.5574468
+  saturation: 0.1875
+  rhythmicContrast: 0.6659575
   brandColors:
     - '#ffffff'
     - '#181410'
     - '#655a41'
     - '#af9d7b'
     - '#963116'
-  brandStrength: 0.75
-  lightness: 0.6875
-  saturation: 0.875
-  rhythmicContrast: 0.25
-purpose: []
+typography_spectrum: 0.93506
