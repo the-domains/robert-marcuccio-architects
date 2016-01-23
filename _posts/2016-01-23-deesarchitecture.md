@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: DEESArchitecture
-datePublished: '2016-01-23T23:32:33.642Z'
-dateModified: '2016-01-23T23:32:29.942Z'
+datePublished: '2016-01-23T23:33:54.201Z'
+dateModified: '2016-01-23T23:33:15.302Z'
 author: []
 title: 'DEESArchitecture design for the present & future'
 sourcePath: _posts/2016-01-23-deesarchitecture.md
