@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: Description entry is Sandro Botticelli
-datePublished: '2015-12-28T14:29:08.507Z'
-dateModified: '2015-12-28T14:29:01.486Z'
+datePublished: '2016-01-23T13:15:37.668Z'
+dateModified: '2015-12-28T14:30:49.729Z'
 title: 'Title for primavera image '
 author: []
 sourcePath: _posts/2015-12-28-placing-title-for-primavera-image.md
