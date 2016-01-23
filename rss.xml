@@ -4,7 +4,7 @@
         <description><![CDATA[ROBERT MARCUCCIO ARCHITECTS ]]></description>
         <link>https://thegrid.ai/robert-marcuccio-architects/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 23 Jan 2016 12:02:20 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Jan 2016 12:21:09 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/robert-marcuccio-architects/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Contact]]></title>
@@ -19,6 +19,13 @@
             <link>https://thegrid.ai/robert-marcuccio-architects/05f446cf-a511-4d0f-9fa2-28af6254db05/index.html</link>
             <guid isPermaLink="false">05f446cf-a511-4d0f-9fa2-28af6254db05</guid>
             <pubDate>Mon, 28 Dec 2015 14:08:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[MAIArchitects]]></title>
+            <description><![CDATA[<article><h1>MAIArchitects</h1><p>MAIArchitects specialise in the design of residential architecture and interiors. </p></article>]]></description>
+            <link>https://thegrid.ai/robert-marcuccio-architects/maiarchitects/index.html</link>
+            <guid isPermaLink="false">dafb11b0-5a8b-438a-814c-433f7e32ac70</guid>
+            <pubDate>Sat, 23 Jan 2016 12:20:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.designecologies.com/</link>
             <guid isPermaLink="false">e3419c09-12de-4c2a-bf16-f8ab23f8c193</guid>
             <pubDate>Sat, 23 Jan 2016 11:14:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[DEESArchitecture ]]></title>
-            <description><![CDATA[<article><h1>DEESArchitecture </h1><p>DEESArchitecture</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/14a8fc0707c05c4e2143cb1473308fe5eaa2b0a4.png"></article>]]></description>
-            <link>https://thegrid.ai/robert-marcuccio-architects/deesarchitecture/index.html</link>
-            <guid isPermaLink="false">52524ee9-79ee-4da5-9e63-c6ce63e48711</guid>
-            <pubDate>Sat, 23 Jan 2016 11:01:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
