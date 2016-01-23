@@ -5,10 +5,10 @@ inNav: true
 inLanguage: null
 starred: true
 keywords: []
-description: Description entry is Sandro Botticelli
-datePublished: '2016-01-23T13:15:37.686Z'
-dateModified: '2015-12-28T14:30:49.729Z'
-title: 'Title for primavera image '
+description: ''
+datePublished: '2016-01-23T22:58:19.497Z'
+dateModified: '2016-01-23T22:58:13.902Z'
+title: 'Title for primavera image & MAIArchitects'
 author: []
 sourcePath: _posts/2015-12-28-placing-title-for-primavera-image.md
 published: true
@@ -26,7 +26,9 @@ _type: Article
 
 ****
 
-**DESIGN ECOLOGIES P/L **
+**MAIArchitects **
+
+****DESIGN ECOLOGIES P/L ****
 
 ****
 
@@ -37,38 +39,5 @@ ABN 36 152 645 237
 ACN 152 645 237
 
 ****
-
-**OFFICE MANUAL**
-
-This document is
-subject to document control
-
-and all
-alterations or amendments shall only
-
-be undertaken by
-the Practice Manager
-
-****
-
-**CONTENTS**
-
-SECTION 1 - INDEX
-
-SECTION 2 - SCOPE OF THE OFFICE MANUAL
-
-SECTION 3 - THE PRACTICE
-
-SECTION 4 - OFFICE SYSTEMS MANUAL
-
-SECTION 5 - OFFICE PROCEDURES
-
-SECTION 6 - PROJECT CHECKLISTS
-
-SECTION 7 - PROJECT PROFORMA H
-
-SECTION 8 - NON-PROJECT PROFORMA
-
-SECTION 9 - PROFESSIONAL DEVELOPMENT
 
 SECTION 10 - ENTERPRISE EMPLOYMENT AGREEMENTS
