@@ -6,7 +6,7 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-23T22:58:19.521Z'
+datePublished: '2016-01-23T22:58:19.593Z'
 dateModified: '2016-01-23T22:58:13.902Z'
 title: 'Title for primavera image & MAIArchitects'
 author: []
