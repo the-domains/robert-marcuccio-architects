@@ -1,5 +1,8 @@
-title: 'MAIArchitects           Marcuccio - Architecture & Interior Architects'
-purpose: []
+name: Robert Marcuccio Architects
+favicon: null
+layout_spectrum: 0.7344013
+typography_spectrum: 0.93506
+title: 'MAIArchitects           '
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.1875
-  brandStrength: 0.75
-  rhythmicContrast: 0.6659575
   brandColors:
     - '#ffffff'
     - '#181410'
     - '#655a41'
     - '#af9d7b'
     - '#963116'
+  brandStrength: 0.75
   lightness: 0.75
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-name: Robert Marcuccio Architects
-favicon: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.93506
-layout_spectrum: 0.7344013
+  saturation: 0.1875
+  rhythmicContrast: 0.6659575
+purpose: []
