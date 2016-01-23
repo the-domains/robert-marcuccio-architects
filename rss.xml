@@ -4,7 +4,7 @@
         <description><![CDATA[ROBERT MARCUCCIO ARCHITECTS ]]></description>
         <link>https://thegrid.ai/robert-marcuccio-architects/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 23 Jan 2016 12:45:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Jan 2016 13:10:18 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/robert-marcuccio-architects/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Contact]]></title>
@@ -21,8 +21,15 @@
             <pubDate>Mon, 28 Dec 2015 14:08:10 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Business Card]]></title>
+            <description><![CDATA[<article><h1></h1><p>Welcome to MAIArchitects</p></article>]]></description>
+            <link>https://thegrid.ai/robert-marcuccio-architects/business-card/index.html</link>
+            <guid isPermaLink="false">5810e5b6-4270-4a28-88d4-5ebd277f7732</guid>
+            <pubDate>Sat, 23 Jan 2016 13:09:20 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[BRUNSWICK EAST SUSTAINABLE HOUSE - Additions & Alterations to Existing Single Storey Terrace House ]]></title>
-            <description><![CDATA[<article><h1>BRUNSWICK EAST SUSTAINABLE HOUSE - Additions & Alterations to Existing Single Storey Terrace House </h1><p>Description Entry Space Text ???</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/93bdbbf7b8e2bdfe4fd77089250095ab94ea0849.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>BRUNSWICK EAST SUSTAINABLE HOUSE - Additions & Alterations to Existing Single Storey Terrace House </h1><p>BRUNSWICK EAST SUSTAINABLE HOUSE - Additions & Alterations to Existing Single Storey Terrace House - Melbourne Victoria </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/93bdbbf7b8e2bdfe4fd77089250095ab94ea0849.jpg"></article>]]></description>
             <link>https://thegrid.ai/robert-marcuccio-architects/e47d35c4-ae92-4c86-a5e7-a340fa0be76f/index.html</link>
             <guid isPermaLink="false">e47d35c4-ae92-4c86-a5e7-a340fa0be76f</guid>
             <pubDate>Sat, 23 Jan 2016 12:45:29 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/robert-marcuccio-architects/hello-debora/index.html</link>
             <guid isPermaLink="false">a431c454-e09f-42d0-aae8-3a4d340eb9af</guid>
             <pubDate>Sat, 23 Jan 2016 11:50:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="http://dgeiu3fz282x5.cloudfront.net/g/l/lgsa058+cherubs-detail-from-sistine-madonna-raphael-art-print.jpg">]]></description>
-            <link>https://thegrid.ai/robert-marcuccio-architects/41ff6a76-b99f-480f-9e10-bd2f8277b197/index.html</link>
-            <guid isPermaLink="false">41ff6a76-b99f-480f-9e10-bd2f8277b197</guid>
-            <pubDate>Sat, 23 Jan 2016 11:49:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
