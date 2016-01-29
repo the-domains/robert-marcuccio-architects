@@ -4,7 +4,7 @@
         <description><![CDATA[MAIArchitects           ]]></description>
         <link>https://thegrid.ai/robert-marcuccio-architects/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 23 Jan 2016 23:34:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jan 2016 10:38:54 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/robert-marcuccio-architects/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Title for primavera image & MAIArchitects]]></title>
@@ -28,6 +28,13 @@
             <pubDate>Sat, 23 Jan 2016 13:15:08 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/63e6c73e-07fa-4f7c-b134-ebd99779a5cf.png">]]></description>
+            <link>https://thegrid.ai/robert-marcuccio-architects/1fad081a-e029-4947-9b5d-005f032e04cc/index.html</link>
+            <guid isPermaLink="false">1fad081a-e029-4947-9b5d-005f032e04cc</guid>
+            <pubDate>Fri, 29 Jan 2016 10:38:40 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[DEESArchitecture design for the present & future]]></title>
             <description><![CDATA[<article><h1>DEESArchitecture design for the present & future</h1><p>DEESArchitecture</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/14a8fc0707c05c4e2143cb1473308fe5eaa2b0a4.png"></article>]]></description>
             <link>urn:uuid:336cde62-302a-48dd-a7f8-9fa72eeb61d1</link>
@@ -36,7 +43,7 @@
         </item>
         <item>
             <title><![CDATA[Business Card]]></title>
-            <description><![CDATA[<article><h1></h1><p>Welcome to MAIArchitects</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1a26e0a29633cd63f8aa22a078c785e127b234c2.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1></h1><p>Welcome to MAIArchitects</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/56d79eaf89d3b3e6fb6b9c8c71edb30897ce1802.jpg"></article>]]></description>
             <link>https://thegrid.ai/robert-marcuccio-architects/business-card/index.html</link>
             <guid isPermaLink="false">5810e5b6-4270-4a28-88d4-5ebd277f7732</guid>
             <pubDate>Sat, 23 Jan 2016 13:18:01 GMT</pubDate>
@@ -57,7 +64,7 @@
         </item>
         <item>
             <title><![CDATA[MAIArchitects]]></title>
-            <description><![CDATA[<article><h1>MAIArchitects</h1><p>MAIArchitects specialise in the design of residential architecture and interiors.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/77318a1ae9fe023f066cf78f88a2e95999ba5109.png"></article>]]></description>
+            <description><![CDATA[<article><h1>MAIArchitects</h1><p>MAIArchitects specialise in the design of residential architecture and interiors.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7305adbaba05de8bd509e66792080b01c16bf19e.png"></article>]]></description>
             <link>https://thegrid.ai/robert-marcuccio-architects/maiarchitects/index.html</link>
             <guid isPermaLink="false">dafb11b0-5a8b-438a-814c-433f7e32ac70</guid>
             <pubDate>Sat, 23 Jan 2016 13:14:20 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://giphy.com/gifs/forum-reign-matter-N3BIo7uF9hyeI</link>
             <guid isPermaLink="false">a08b2737-e597-47bb-9539-a76d67b9d544</guid>
             <pubDate>Sat, 23 Jan 2016 12:01:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Here i enter text - Right Click H1 Heading]]></title>
-            <description><![CDATA[<article><h1>Here i enter text - Right Click H1 Heading</h1><p>The goal is to construct two websites that link relevant posts together, redirecting leads to specific interests and services</p></article>]]></description>
-            <link>https://thegrid.ai/robert-marcuccio-architects/here-i-enter-text-right-click-h1-heading/index.html</link>
-            <guid isPermaLink="false">c7ccd104-8c30-40d8-a701-2d0d35c171a6</guid>
-            <pubDate>Sat, 23 Jan 2016 11:55:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
