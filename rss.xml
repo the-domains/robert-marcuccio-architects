@@ -4,7 +4,7 @@
         <description><![CDATA[MAIArchitects RM]]></description>
         <link>https://thegrid.ai/robert-marcuccio-architects/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 21 Mar 2016 21:18:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2016 21:19:35 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/robert-marcuccio-architects/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Timeless Design. Quality, Beauty, Comfort.]]></title>
@@ -43,6 +43,13 @@
         </item>
         <item>
             <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://pbs.twimg.com/media/BbVRxb_CAAES46_.jpg">]]></description>
+            <link>https://thegrid.ai/robert-marcuccio-architects/310c746b-256c-461c-8843-15711d55c198/index.html</link>
+            <guid isPermaLink="false">310c746b-256c-461c-8843-15711d55c198</guid>
+            <pubDate>Mon, 21 Mar 2016 21:18:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
             <description><![CDATA[<img alt="Brunswick West House - Construction Progress of Contemporary Two Storey Glazed Addition in Heritage Zone" src="https://pbs.twimg.com/media/BbVRxb_CAAES46_.jpg:large">]]></description>
             <link>https://twitter.com/RobertMarcuccio/status/411324850951561218</link>
             <guid isPermaLink="false">9fc42c09-6d84-449a-a4eb-aa9bfc55dd72</guid>
@@ -57,10 +64,10 @@
         </item>
         <item>
             <title><![CDATA[HERITAGE ARCHITECTURE & RETAIL INTERIOR ARCHITECTURE]]></title>
-            <description><![CDATA[<article><h1>HERITAGE ARCHITECTURE & RETAIL INTERIOR ARCHITECTURE</h1><p>HERITAGE ARCHITECTURE & RETAIL INTERIOR</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8f17a227a6bb40c424d4599e112a274bd30b9635.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>HERITAGE ARCHITECTURE & RETAIL INTERIOR ARCHITECTURE</h1><p>HERITAGE ARCHITECTURE & RETAIL INTERIOR</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3680ba9f52f2c7e8b6825db7dfeca46ad2ea7e4b.jpg"></article>]]></description>
             <link>https://thegrid.ai/robert-marcuccio-architects/8e40de02-2fd5-4640-a21e-a8be5ce967df/index.html</link>
             <guid isPermaLink="false">8e40de02-2fd5-4640-a21e-a8be5ce967df</guid>
-            <pubDate>Thu, 11 Feb 2016 10:16:14 GMT</pubDate>
+            <pubDate>Mon, 21 Mar 2016 21:19:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[DEESArchitecture design for the present & future]]></title>
@@ -68,13 +75,6 @@
             <link>urn:uuid:336cde62-302a-48dd-a7f8-9fa72eeb61d1</link>
             <guid isPermaLink="false">52524ee9-79ee-4da5-9e63-c6ce63e48711</guid>
             <pubDate>Sat, 23 Jan 2016 23:33:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Business Card]]></title>
-            <description><![CDATA[<article><h1></h1><p>Welcome to MAIArchitects</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/56d79eaf89d3b3e6fb6b9c8c71edb30897ce1802.jpg"></article>]]></description>
-            <link>https://thegrid.ai/robert-marcuccio-architects/business-card/index.html</link>
-            <guid isPermaLink="false">5810e5b6-4270-4a28-88d4-5ebd277f7732</guid>
-            <pubDate>Sat, 23 Jan 2016 13:18:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
