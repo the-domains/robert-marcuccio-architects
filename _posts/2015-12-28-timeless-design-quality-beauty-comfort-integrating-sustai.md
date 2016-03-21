@@ -1,23 +1,23 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2015-12-28T13:26:00.801Z'
-dateModified: '2015-12-28T13:25:38.007Z'
-title: 'Timeless Design. Quality, Beauty, Comfort integrating Sustainability Principles are our core customer delivery values. '
+datePublished: '2016-03-21T20:26:47.167Z'
+dateModified: '2016-01-23T22:49:58.790Z'
+title: 'Timeless Design. Quality, Beauty, Comfort.'
 author: []
+sourcePath: _posts/2015-12-28-timeless-design-quality-beauty-comfort-integrating-sustai.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-28-timeless-design-quality-beauty-comfort-integrating-sustai.md
-published: true
 url: timeless-design-quality-beauty-comfort-integrating-sustai/index.html
 _type: Article
 
