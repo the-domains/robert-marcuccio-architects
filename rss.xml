@@ -4,8 +4,15 @@
         <description><![CDATA[MAIArchitects RM]]></description>
         <link>https://thegrid.ai/robert-marcuccio-architects/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 21 Mar 2016 20:26:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2016 20:26:49 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/robert-marcuccio-architects/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Timeless Design. Quality, Beauty, Comfort.]]></title>
+            <description><![CDATA[<article><h1>Timeless Design. Quality, Beauty, Comfort.</h1><p>Quality, Beauty, Comfort in bespoke style integrating Sustainability Principles are core customer delivery values.</p></article>]]></description>
+            <link>https://thegrid.ai/robert-marcuccio-architects/timeless-design-quality-beauty-comfort-integrating-sustai/index.html</link>
+            <guid isPermaLink="false">7af1f61c-813c-400c-a1ea-af8cd8f135c0</guid>
+            <pubDate>Mon, 21 Mar 2016 20:26:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[FREE ]]></title>
             <description><![CDATA[<article><h1>FREE </h1><p>Receive an Accredited Energy Rating Report conducted by our architects when you sign up for an Architect Home & Energy Efficiency Design Service</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e85b35f15ef469218aea341f37b969592a066a35.png"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/robert-marcuccio-architects/7f204e48-73fa-434c-a2d0-c98d66f838e9/index.html</link>
             <guid isPermaLink="false">7f204e48-73fa-434c-a2d0-c98d66f838e9</guid>
             <pubDate>Sat, 23 Jan 2016 12:32:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[MAIArchitects]]></title>
-            <description><![CDATA[<article><h1>MAIArchitects</h1><p>MAIArchitects specialise in the design of residential architecture and interiors.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7305adbaba05de8bd509e66792080b01c16bf19e.png"></article>]]></description>
-            <link>https://thegrid.ai/robert-marcuccio-architects/maiarchitects/index.html</link>
-            <guid isPermaLink="false">dafb11b0-5a8b-438a-814c-433f7e32ac70</guid>
-            <pubDate>Sat, 23 Jan 2016 13:14:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
