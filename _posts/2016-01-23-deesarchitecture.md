@@ -1,14 +1,13 @@
 ---
 inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: 'urn:uuid:336cde62-302a-48dd-a7f8-9fa72eeb61d1'
+hasPage: true
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: DEESArchitecture
-datePublished: '2016-01-23T23:33:54.201Z'
-dateModified: '2016-01-23T23:33:15.302Z'
+description: DEESArchitecture is a not for profit company
+datePublished: '2016-04-17T14:04:59.283Z'
+dateModified: '2016-04-17T14:04:07.272Z'
 author: []
 title: 'DEESArchitecture design for the present & future'
 sourcePath: _posts/2016-01-23-deesarchitecture.md
@@ -19,6 +18,7 @@ publisher:
   domain: ''
   url: null
   favicon: null
+url: deesarchitecture-design-for-the-present-and-future/index.html
 _context: 'http://schema.org'
 _type: Article
 
