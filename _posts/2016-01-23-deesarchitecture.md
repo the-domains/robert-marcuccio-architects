@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: DEESArchitecture is a not for profit company
-datePublished: '2016-04-17T14:24:16.780Z'
-dateModified: '2016-04-17T14:23:51.698Z'
+datePublished: '2016-04-17T14:24:51.279Z'
+dateModified: '2016-04-17T14:24:22.440Z'
 author: []
 title: 'DEESArchitecture design for the present & future'
 sourcePath: _posts/2016-01-23-deesarchitecture.md
