@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: true
 keywords: []
-description: ''
-datePublished: '2016-01-23T22:58:19.681Z'
-dateModified: '2016-01-23T22:58:13.902Z'
+description: "MAIArchitects\_"
+datePublished: '2016-04-17T14:03:03.552Z'
+dateModified: '2016-04-17T14:03:03.434Z'
 title: 'Title for primavera image & MAIArchitects'
 author: []
 sourcePath: _posts/2015-12-28-placing-title-for-primavera-image.md
@@ -28,16 +28,8 @@ _type: Article
 
 **MAIArchitects **
 
-****DESIGN ECOLOGIES P/L ****
-
-****
-
-**SUSTAINABLE ARCHITECTURE**
-
 ABN 36 152 645 237
 
 ACN 152 645 237
 
-****
-
-SECTION 10 - ENTERPRISE EMPLOYMENT AGREEMENTS
+TradingDESIGN ECOLOGIES P/L
