@@ -4,7 +4,7 @@
         <description><![CDATA[MAIArchitects RM]]></description>
         <link>https://thegrid.ai/robert-marcuccio-architects/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 17 Apr 2016 14:28:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Apr 2016 14:29:28 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/robert-marcuccio-architects/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Title for primavera image & MAIArchitects]]></title>
@@ -42,6 +42,13 @@
             <pubDate>Sat, 23 Jan 2016 13:15:08 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[YouTube]]></title>
+            <description><![CDATA[<article><h1>YouTube</h1><img src="http://img.youtube.com/vi/ok7LpNUJRFg/hqdefault.jpg"></article>]]></description>
+            <link>https://youtu.be/ok7LpNUJRFg</link>
+            <guid isPermaLink="false">8d168a55-351b-414d-8fa5-7da3b23ed9c4</guid>
+            <pubDate>Sun, 17 Apr 2016 14:29:26 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://media.giphy.com/media/lCqrXB8Z0ssve/giphy.gif">]]></description>
             <link>https://thegrid.ai/robert-marcuccio-architects/69cd788a-4dba-441d-9e97-663137412e05/index.html</link>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/robert-marcuccio-architects/8e40de02-2fd5-4640-a21e-a8be5ce967df/index.html</link>
             <guid isPermaLink="false">8e40de02-2fd5-4640-a21e-a8be5ce967df</guid>
             <pubDate>Mon, 21 Mar 2016 21:19:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img alt="Brunswick West House - Construction Progress of Contemporary Two Storey Glazed Addition in Heritage Zone" src="https://pbs.twimg.com/media/BbVRxb_CAAES46_.jpg:large">]]></description>
-            <link>https://twitter.com/RobertMarcuccio/status/411324850951561218</link>
-            <guid isPermaLink="false">9fc42c09-6d84-449a-a4eb-aa9bfc55dd72</guid>
-            <pubDate>Mon, 21 Mar 2016 21:18:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
